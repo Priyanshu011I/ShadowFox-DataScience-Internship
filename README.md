@@ -26,8 +26,6 @@ Welcome to my Data Science Internship repository. This repository contains all t
 - Bar Chart
 - Scatter Plot
 - Histogram
-- Box Plot
-- Heatmap
 
 ---
 
@@ -40,7 +38,6 @@ Welcome to my Data Science Internship repository. This repository contains all t
 - Movies vs TV Shows Analysis
 - Rating Distribution
 - Country-wise Analysis
-- Genre Analysis
 - Release Year Trend
 - Heatmap
 
